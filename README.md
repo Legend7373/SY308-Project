@@ -1,4 +1,4 @@
-# SY308
+# SY308 - Project
 SY308: Security Fundamental Principles
 Calendar	Policy
 Project: ATM Design and Implementation
