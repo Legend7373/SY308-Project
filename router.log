@@ -1,0 +1,330 @@
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x18\x00\x00\x00\x00\x00\x00\x00C\x14verifyUser Bob 10001\x94.'
+Contents: b'verifyUser Bob 10001'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\r\x00\x00\x00\x00\x00\x00\x00C\tvaliduser\x94.'
+Contents: b'validuser'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0everifyPin 1234\x94.'
+Contents: b'verifyPin 1234'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0c\x00\x00\x00\x00\x00\x00\x00C\x08invalidp\x94.'
+Contents: b'invalidp'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x18\x00\x00\x00\x00\x00\x00\x00C\x14verifyUser Bob 10001\x94.'
+Contents: b'verifyUser Bob 10001'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\r\x00\x00\x00\x00\x00\x00\x00C\tvaliduser\x94.'
+Contents: b'validuser'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0everifyPin 7373\x94.'
+Contents: b'verifyPin 7373'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0c\x00\x00\x00\x00\x00\x00\x00C\x08validpin\x94.'
+Contents: b'validpin'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0b\x00\x00\x00\x00\x00\x00\x00C\x07$20011\n\x94.'
+Contents: b'$20011\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x15\x00\x00\x00\x00\x00\x00\x00C\x11withdraw Bob 7777\x94.'
+Contents: b'withdraw Bob 7777'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x14\x00\x00\x00\x00\x00\x00\x00C\x10$7777\nwithdrawn\n\x94.'
+Contents: b'$7777\nwithdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x13\x00\x00\x00\x00\x00\x00\x00C\x0fwithdraw Bob 30\x94.'
+Contents: b'withdraw Bob 30'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0e$30\nwithdrawn\n\x94.'
+Contents: b'$30\nwithdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0b\x00\x00\x00\x00\x00\x00\x00C\x07$12204\n\x94.'
+Contents: b'$12204\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x16\x00\x00\x00\x00\x00\x00\x00C\x12withdraw Bob 12000\x94.'
+Contents: b'withdraw Bob 12000'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x15\x00\x00\x00\x00\x00\x00\x00C\x11$12000\nwithdrawn\n\x94.'
+Contents: b'$12000\nwithdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\t\x00\x00\x00\x00\x00\x00\x00C\x05$204\n\x94.'
+Contents: b'$204\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x14\x00\x00\x00\x00\x00\x00\x00C\x10withdraw Bob 204\x94.'
+Contents: b'withdraw Bob 204'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x13\x00\x00\x00\x00\x00\x00\x00C\x0f$204\nwithdrawn\n\x94.'
+Contents: b'$204\nwithdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x07\x00\x00\x00\x00\x00\x00\x00C\x03$0\n\x94.'
+Contents: b'$0\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0ewithdraw Bob 2\x94.'
+Contents: b'withdraw Bob 2'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x18\x00\x00\x00\x00\x00\x00\x00C\x14\nInsufficient Funds\n\x94.'
+Contents: b'\nInsufficient Funds\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x1a\x00\x00\x00\x00\x00\x00\x00C\x16verifyUser Carol 10002\x94.'
+Contents: b'verifyUser Carol 10002'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x1a\x00\x00\x00\x00\x00\x00\x00C\x16verifyUser Carol 10002\x94.'
+Contents: b'verifyUser Carol 10002'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\r\x00\x00\x00\x00\x00\x00\x00C\tvaliduser\x94.'
+Contents: b'validuser'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0everifyPin 1234\x94.'
+Contents: b'verifyPin 1234'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0c\x00\x00\x00\x00\x00\x00\x00C\x08invalidp\x94.'
+Contents: b'invalidp'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x1a\x00\x00\x00\x00\x00\x00\x00C\x16verifyUser Carol 10002\x94.'
+Contents: b'verifyUser Carol 10002'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\r\x00\x00\x00\x00\x00\x00\x00C\tvaliduser\x94.'
+Contents: b'validuser'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0everifyPin 2468\x94.'
+Contents: b'verifyPin 2468'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0c\x00\x00\x00\x00\x00\x00\x00C\x08validpin\x94.'
+Contents: b'validpin'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x11\x00\x00\x00\x00\x00\x00\x00C\rbalance Carol\x94.'
+Contents: b'balance Carol'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x08\x00\x00\x00\x00\x00\x00\x00C\x04$37\n\x94.'
+Contents: b'$37\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x15\x00\x00\x00\x00\x00\x00\x00C\x11withdraw Carol 10\x94.'
+Contents: b'withdraw Carol 10'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0e$10 withdrawn\n\x94.'
+Contents: b'$10 withdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x11\x00\x00\x00\x00\x00\x00\x00C\rbalance Carol\x94.'
+Contents: b'balance Carol'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x08\x00\x00\x00\x00\x00\x00\x00C\x04$27\n\x94.'
+Contents: b'$27\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x11\x00\x00\x00\x00\x00\x00\x00C\rbalance Carol\x94.'
+Contents: b'balance Carol'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\t\x00\x00\x00\x00\x00\x00\x00C\x05$804\n\x94.'
+Contents: b'$804\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x18\x00\x00\x00\x00\x00\x00\x00C\x14verifyUser Bob 10001\x94.'
+Contents: b'verifyUser Bob 10001'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\r\x00\x00\x00\x00\x00\x00\x00C\tvaliduser\x94.'
+Contents: b'validuser'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0everifyPin 7373\x94.'
+Contents: b'verifyPin 7373'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0c\x00\x00\x00\x00\x00\x00\x00C\x08validpin\x94.'
+Contents: b'validpin'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0b\x00\x00\x00\x00\x00\x00\x00C\x07$20011\n\x94.'
+Contents: b'$20011\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x13\x00\x00\x00\x00\x00\x00\x00C\x0fwithdraw Bob 77\x94.'
+Contents: b'withdraw Bob 77'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x12\x00\x00\x00\x00\x00\x00\x00C\x0e$77 withdrawn\n\x94.'
+Contents: b'$77 withdrawn\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0b\x00\x00\x00\x00\x00\x00\x00C\x07$19934\n\x94.'
+Contents: b'$19934\n'
+
+Message from ATM
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0f\x00\x00\x00\x00\x00\x00\x00C\x0bbalance Bob\x94.'
+Contents: b'balance Bob'
+
+Message from BANK
+-----------------------
+Type: <class 'bytes'>
+Raw pickle data: b'\x80\x04\x95\x0b\x00\x00\x00\x00\x00\x00\x00C\x07$22934\n\x94.'
+Contents: b'$22934\n'
+
